@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harish Basam - Resume</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            color: #000;
+        }
+        h1, h2 {
+            border-bottom: 1px solid #000;
+            padding-bottom: 5px;
+        }
+        .contact {
+            margin-bottom: 20px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Basam Harish</h1>
+
+    <div class="contact">
+        <p>
+            📞 +91 7680086838 <br>
+            ✉️ harishnani2002@outlook.com
+        </p>
+    </div>
+
+    <h2>Objective</h2>
+    <p>
+        Passionate and dedicated Computer Science Engineering student specializing in Data Science.
+        Fast learner, hardworking, and motivated to contribute to team success and organizational goals.
+    </p>
+
+    <h2>Education</h2>
+    <p><strong>CMR Institute of Technology</strong></p>
+    <p>B.Tech in Computer Science Engineering (Data Science)</p>
+    <p>December 2020 – 2025 </p>
+
+    <p><strong>Sri Gayatri College</strong></p>
+    <p>Intermediate Education (M.P.C)</p>
+    <p>June 2017 – June 2019 | Score: 80%</p>
+
+    <p><strong>Sri Sharadadhamam High School</strong></p>
+    <p>Secondary School Certification</p>
+    <p>CGPA: 8.3 / 10</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Communication Skills</li>
+        <li>Leadership</li>
+        <li>Teamwork</li>
+        <li>Problem Solving</li>
+        <li>Python</li>
+        <li>Data Science Basics</li>
+        <li>HTML,CSS</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>Python Internship</li>
+        <li>Blackbucks Certificate in AI & ML</li>
+        <li>TCS Virtual Experience Program</li>
+    </ul>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Solving Rubik’s Cube</li>
+        <li>Playing Chess</li>
+        <li>Playing Cricket</li>
+    </ul>
+
+</body>
+</html>
